@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EX1TECH
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++, JS, Java
 - Just a guy with a PC
 
